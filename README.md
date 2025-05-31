@@ -15,7 +15,7 @@ This space serves as the **public archive** and reference point for all licensin
 This font is free for **personal** and **non-commercial use only**.  
 If you wish to use this font for any commercial purpose, please [contact us](mailto:tech@schizostudios.org) to obtain a commercial license.
 
-- **Font download available at font001.schizostudios.org
+- **Font download** available at font001.schizostudios.org
 
 ---
 
