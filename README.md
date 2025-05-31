@@ -5,29 +5,24 @@ This space serves as the **public archive** and reference point for all licensin
 
 ---
 
-## ⚖️ Current License
+## ⚖️ Current License(s)
 
 ### 🔹 `My_Pen_in_Hand` – Non-Commercial License
 
 - **Font Name**: My Pen in Hand  
 - **License Type**: Non-Commercial Font License
-- **View License**: [license.txt](./My_Pen_in_Hand/license.txt)  
-- **HTML Version**: [license.html](./My_Pen_in_Hand/license.html)  
-- **Font File**: [Download .otf](./My_Pen_in_Hand/My_Pen_in_Hand.otf)
+- **View License**: ["My Pen in Hand non-commercial License".txt](./"My Pen in Hand non-commercial License".txt)
 
 This font is free for **personal** and **non-commercial use only**.  
 If you wish to use this font for any commercial purpose, please [contact us](mailto:tech@schizostudios.org) to obtain a commercial license.
+
+- **Font download available at font001.schizostudios.org
 
 ---
 
 ## 📂 License Directory (Planned / Coming Soon)
 
-| License Name                 | Type                   | Path                             |
-|-----------------------------|------------------------|----------------------------------|
-| `My_Pen_in_Hand`            | Non-Commercial         | `/My_Pen_in_Hand/`               |
-| `Font002`                   | TBD                    | `/Font002/`                      |
-| `Audio001`                  | Attribution Required   | `/Audio001/`                     |
-| `VisualPack01`              | Commercial License     | `/VisualPack01/` (secured)       |
+More will be revealed... Soon to come. 
 
 > 🔒 *Some commercial licenses may be password protected.
 
