@@ -11,7 +11,7 @@ This space serves as the **public archive** and reference point for all licensin
 
 - **Font Name**: My Pen in Hand  
 - **License Type**: Non-Commercial Font License
-- **View License** https://github.com/SchizoStudios/licenses/blob/Public_Licenses/My%2520Pen%2520in%2520Hand%2520non-commercial%2520License
+- **View License** My Pen in Hand non-commercial License2520Pen%2520in%2520Hand%2520non-commercial%2520License
 
 This font is free for **personal** and **non-commercial use only**.  
 If you wish to use this font for any commercial purpose, please [contact us](mailto:tech@schizostudios.org) to obtain a commercial license.
